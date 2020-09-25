@@ -1,4 +1,4 @@
-# ![](Hello(1).gif)[Akash Salvi Here!](https://github.com/Akash-Salvi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# ![](Hello(1).gif)[Akash Salvi!](https://github.com/Akash-Salvi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 👨‍🎓 I am Akash Salvi, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/>
 🌱 I’m currently learning **MERN, Competitive Coding.**<br />
