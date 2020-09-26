@@ -36,9 +36,10 @@
 <a href="https://github.com/Akash-Salvi">
   <img align="left" alt="Akash's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.akashnov100@gmail.com">
-  <img align="left" alt="Akash's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
-</a>
+
+<br/>
+ <img align="left" alt="Akash's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> **akashsalvi21@gmail.com**
+
 
 <br />
 <br />
