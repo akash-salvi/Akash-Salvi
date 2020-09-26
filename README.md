@@ -38,7 +38,7 @@
 </a>
 
 <br/>
- <img align="left" alt="Akash's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> **akashsalvi21@gmail.com**
+### 📩 Mail - akashsalvi21@gmail.com
 
 
 <br />
