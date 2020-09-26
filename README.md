@@ -38,7 +38,7 @@
 </a>
 
 <br/>
-### 📩 Mail - akashsalvi21@gmail.com
+
 
 
 <br />
