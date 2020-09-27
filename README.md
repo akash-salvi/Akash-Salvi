@@ -14,7 +14,6 @@
 
 
 <br>
-<br>
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=akash-salvi&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919)
 
@@ -41,8 +40,11 @@
 <a href="https://github.com/Akash-Salvi">
   <img align="left" alt="Akash's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<br>
 
-<br/>
+## <img align="left" alt="Abhishek's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> akashsalvi21@gmail.com
+
+
 
 
 
