@@ -1,5 +1,7 @@
 # ![](Hello(1).gif)[Akash Salvi!](https://github.com/Akash-Salvi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+<img src="https://user-images.githubusercontent.com/61380295/114661349-7606dc80-9d14-11eb-91da-dd50bc8ea215.png" height="auto" width="1000px">
+
 👨‍🎓 I am Akash Salvi, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/>
 🌱 I’m currently learning **MERN, Competitive Coding.**<br />
 💻 I'm a **Full-Stack Web Developer and 📱 UI enthusiast.**<br/>
@@ -41,9 +43,6 @@
   <img align="left" alt="Akash's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <br>
-
-## <img align="left" alt="Abhishek's Mail" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /> akashsalvi21@gmail.com
-
 
 
 
