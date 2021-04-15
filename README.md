@@ -20,14 +20,8 @@
 <br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=akash-salvi&&show_icons=true&title_color=00c3ff&icon_color=ee0979&text_color=00c3ff&bg_color=191919" alt="my github stats" width="420">&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash-salvi&layout=compact&title_color=00c3ff&text_color=00c3ff&bg_color=191919" alt="languages" height="165">
+</p> 
 
-</p>
-
-<br>
-<br>
-
-
- 
 ## Connect With Me
   <a href="https://akash-salvi.github.io/">
     <img align="left" alt="Akash's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
