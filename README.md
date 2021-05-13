@@ -1,6 +1,6 @@
 # ![](Hello(1).gif)[Akash Salvi!](https://github.com/Akash-Salvi) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<img src="https://user-images.githubusercontent.com/61380295/114661349-7606dc80-9d14-11eb-91da-dd50bc8ea215.png" height="auto" width="1000px">
+<img src="https://user-images.githubusercontent.com/61380295/118159265-70e39d00-b43a-11eb-9326-113cc5edb040.jpeg" height="auto" width="1000px">
 
 👨‍🎓 I am Akash Salvi, currently embarking on my B.E. journey from **D.Y. Patil College Of Engineering, Akurdi, Pune.** <br/>
 🌱 I’m currently learning **MERN, Competitive Coding.**<br />
